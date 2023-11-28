@@ -22,12 +22,12 @@ Diagrama do Der https://drive.google.com/file/d/1dWz9-AqqLakLX_afLU5QKIvF-YEVYW0
 
 ## Instruções De Uso
 
-<h2 align= 'center'>Criando ambiente virtual</h2>
+<h2>Criando ambiente virtual</h2>
 
 ``` 
 python -m venv venv
 ```
-<h2 align= 'center'>Habilitar env</h2>
+<h2>Habilitar env</h2>
 
 ```
 # linux:
@@ -38,14 +38,14 @@ source venv/bin/activate
 
 ```
 
-<h2 align= 'center'>Instale as dependências</h2>
+<h2>Instale as dependências</h2>
 
 ```
 pip install -r requirements.txt
 
 ```
 
-<h2 align= 'center'>Execute as migrações</h2>
+<h2>Execute as migrações</h2>
 
 ```
 python manage.py migrate
