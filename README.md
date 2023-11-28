@@ -23,7 +23,8 @@ Diagrama do Der https://drive.google.com/file/d/1dWz9-AqqLakLX_afLU5QKIvF-YEVYW0
 ## Instruções De Uso
 
 <h2 align= 'center'>Criando ambiente virtual</h2>
-```
+
+``` 
 python -m venv venv
 ```
 <h2 align= 'center'>Habilitar env</h2>
